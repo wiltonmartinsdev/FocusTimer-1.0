@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+
+    --ffTimer: "Roboto", sans-serif;
+    --fsTimer: 13rem;
+}
+
+main {
+    width: 128rem;
+    height: 72rem;
+
+    margin: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 19.2rem;
+}
+
+span {
+    font-family: var(--ffTimer);
+    font-size: var(--fsTimer);
+}
+
+button {
+    background-color: transparent;
+
+    border: none;
+
+    cursor: pointer;
+}
+
+#buttonControls {
+    display: flex;
+    justify-content: space-between;
+}
+
+#ambientSounds {
+    display: grid;
+    grid-template-areas:
+        "A B"
+        "C D";
+
+    gap: 3.2rem;
+}
+
+button .forest {
+    grid-area: A;
+}
+
+button .rain {
+    grid-area: B;
+}
+
+button .coffeShop {
+    grid-area: C;
+}
+
+button .firePlace {
+    grid-area: D;
+}
+
+.show svg path:nth-child(1) {
+    fill: #02799d;
+}
+
+.show svg path:nth-child(2) {
+    fill: #ffffff;
+}
