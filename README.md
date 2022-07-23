@@ -20,7 +20,7 @@
 
 ## Stacks utilizada
 
-**Front-end:** HTML, CSS, JavaScript.
+**Front-end:** HTML, CSS e JavaScript.
 
 
 
@@ -34,8 +34,10 @@
 
 ## Status do Projeto
 
-De acordo com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado.
+De acordo com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
+
 ## Aprendizados
+
 - A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há um novo aprendizado, sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
 
 - Nesse projeto aprendi sobre **modularização no JavaScript**, o **padrão factory** e **injeção de dependências**.
