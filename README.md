@@ -1,1 +1,44 @@
-# FocusTimer
+# FocusTimer 1.0
+
+- Este projeto consiste em desenvolver um temporizador.
+- Projeto proposto pelo programa de formação [Explorer](https://www.rocketseat.com.br/explorer) da [RocketSeat](https://www.rocketseat.com.br/).
+
+
+
+
+
+
+
+
+## Funcionalidades
+
+- Visualização em tempo real.
+- Botão Play/Pause/Stop.
+- Botão Incrementar ou Decrementar em 5 Minutos o temporizador.
+- Botão Cards: Onde cada card quando clicado irá mudar de cor e emitir um som diferente de Floresta, Chuva, Cafeteria ou Lareira. 
+
+
+## Stacks utilizada
+
+**Front-end:** HTML, CSS, JavaScript.
+
+
+
+
+
+## Licença utilizada
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+
+
+## Status do Projeto
+
+De acordo com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado.
+## Aprendizados
+- A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há um novo aprendizado, sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
+
+- Nesse projeto aprendi sobre **modularização no JavaScript**, o **padrão factory** e **injeção de dependências**.
+
+- Tive dificuldades para entender a lógica do temporizador, o padrão factory e injeção de dependências, mas praticando muito e revendo as aulas e realizando este projeto conseguir entender sua usabilidade e como aplicá-lo.
+
