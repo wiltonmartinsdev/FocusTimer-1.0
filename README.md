@@ -24,7 +24,7 @@
 
 ## Status do Projeto
 
-De acordo com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
+De acordo com o que foi proposto para desenvolver o projeto ele encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
 
 
 ## Aprendizados
