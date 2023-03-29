@@ -19,7 +19,7 @@
 
 ## Licença utilizada
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![GitHub](https://img.shields.io/github/license/wiltonmartinsdev/FocusTimer-1.0)
 
 
 ## Status do Projeto
